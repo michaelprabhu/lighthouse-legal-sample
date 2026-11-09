@@ -1,0 +1,19 @@
+{
+  "business": "Lighthouse Legal Services, PLLC",
+  "location": "Abilene, TX",
+  "category": "law firm",
+  "slug": "lighthouse-legal-sample",
+  "planned_url": "https://michaelprabhu.github.io/lighthouse-legal-sample/",
+  "sample_only": true,
+  "official_site": false,
+  "affiliation_claimed": false,
+  "noindex": true,
+  "photo_id": "8731036",
+  "photographer": "Mikhail Nilov",
+  "photo_source": "https://www.pexels.com/photo/a-law-book-on-a-wooden-desk-beside-papers-8731036/",
+  "photo_license": "https://www.pexels.com/license/",
+  "contact_or_booking_enabled": false,
+  "email_or_phone_included": false,
+  "visual_review_status": "passed",
+  "visual_review_notes": "Generic law-book title only; no business-specific text, logo, sign, or identifying document content visible."
+}
